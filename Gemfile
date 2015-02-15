@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+# i need to get the gems for heroku push
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
